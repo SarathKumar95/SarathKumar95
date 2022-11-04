@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarathKumar
-- 👀 I’m interested in developing projects using Python Django
+- 👀 I’m interested in developing projects using Python Django and highly appreciate any oppurtunity to upgrade myself.
 - 🌱 I’m currently learning Python Full Stack Development(DJANGO + REACT)
 - 💞️ I’m looking to collaborate on any projects related to Web Development.
 - 📫 Feel free to reach me on worksarath95@gmail.com
